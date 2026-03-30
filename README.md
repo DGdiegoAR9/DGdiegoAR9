@@ -10,6 +10,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor" width="45" height="45"/>        
 </p>
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DGdiegoAR9&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DGdiegoAR9&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://streak-stats.demolab.com?user=DGdiegoAR9&theme=tokyonight)
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!&fontSize=50&animation=fadeIn)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DGdiegoAR9&color=blueviolet&style=flat-square)
