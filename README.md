@@ -1,5 +1,3 @@
-## Hi 👋
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!&fontSize=50&animation=fadeIn)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
