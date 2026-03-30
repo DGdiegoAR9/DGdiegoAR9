@@ -16,8 +16,3 @@
 ![Streak Stats](https://streak-stats.demolab.com?user=DGdiegoAR9&theme=tokyonight)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DGdiegoAR9&color=blueviolet&style=flat-square)
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DGdiegoAR9&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&count_private=true)
