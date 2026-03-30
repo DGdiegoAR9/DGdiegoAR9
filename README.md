@@ -16,6 +16,3 @@
 ![Streak Stats](https://streak-stats.demolab.com?user=DGdiegoAR9&theme=tokyonight)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DGdiegoAR9&color=blueviolet&style=flat-square)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Diego!+%F0%9F%91%8B;C%23+%2F+.NET+Developer+in+progress+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
