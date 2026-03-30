@@ -12,7 +12,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor" width="45" height="45"/>        
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![Streak Stats](https://streak-stats.demolab.com?user=DGdiegoAR9&theme=tokyonight)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=DGdiegoAR9&color=blueviolet&style=flat-square)
 
 
